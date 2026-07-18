@@ -1,4 +1,4 @@
-# SiddheshTest1 feature 2 For good github
+# SiddheshTest1 feature 1 For good github
 This repository demonstrates:
 - Branch creation
 - Pull requests
